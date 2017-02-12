@@ -1,11 +1,5 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      permalink: /contact/
+title: "Contact"
+sitemap: true
+permalink: /contact/
 ---
