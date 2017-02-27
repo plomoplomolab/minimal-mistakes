@@ -67,7 +67,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links:                    # An array of links to social media profiles
-  - "https://instagram.com/plomomolq" 
 
 # Analytics
 analytics:
@@ -88,12 +87,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "wendeurick"
   foursquare       :
-  github           :
+  github           : "wsilverio"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "obelonave"
   lastfm           :
   linkedin         :
   pinterest        :
