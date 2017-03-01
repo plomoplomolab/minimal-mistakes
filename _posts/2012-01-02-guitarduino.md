@@ -1,10 +1,10 @@
 ---
 title: "Guitarduino: Arduino + Frets On Fire"
 categories:
-  - Projetos
+  - Projects
 tags:
   - Arduino
-  - Jogos
+  - Games
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-7eQsGrJ_30" frameborder="0" allowfullscreen></iframe>

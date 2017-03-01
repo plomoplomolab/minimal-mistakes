@@ -1,7 +1,7 @@
 ---
 title: "Automação BT"
 categories:
-  - Projetos
+  - Projects
 tags:
   - Arduino
   - 8051
