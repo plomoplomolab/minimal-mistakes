@@ -12,7 +12,7 @@ tags:
 <br/>
 Este foi meu primeiro projeto com Arduino e meu último apresentado no curso Técnico em Eletrônica Industrial, em 2012.
   
-Tinha acabado de comprar meu primeiro Arduino (o Duemilanove) e queria aplicá-lo em algum projeto. Como o uso do microcontrolador 8051 era obrigatório, juntei as duas plataformas: este cuidava do LCD e o Arduino controlava os servo-motores e fazia a comunicação com o módulo bluetooth. A interface entre os microcontroladores era via UART. <br>
+<!-- Tinha acabado de comprar meu primeiro Arduino (o Duemilanove) e queria aplicá-lo em algum projeto. Como o uso do microcontrolador 8051 era obrigatório, juntei as duas plataformas: este cuidava do LCD e o Arduino controlava os servo-motores e fazia a comunicação com o módulo bluetooth. A interface entre os microcontroladores era via UART. <br> -->
 
 Esta maquete recebeu o primeiro lugar da XV Feira de Projetos dos cursos Técnicos da Faculdade de Tecnologia Ensitec.
 
