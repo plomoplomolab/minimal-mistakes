@@ -3,14 +3,14 @@ title: "About"
 sitemap: true
 permalink: /about/
 ---
-
+:us:
 Hi, my name is Wendeurick Silverio. I'm a Libre Culture lover.  
 This is my portfolio. Here I share my projects and researches.  
 I currently study Electrical Engineering at Federal University of Paraná, in Curitiba/Brazil.  
 Apart from electronics, I'm interested in trekking, vegetarianism, drums and Krav Maga.  
 
 * * *
-
+:es:
 Hola! Me llamo Wendeurick Silverio. Soy amante de la cultura libre.  
 Este es mi portafolio. Aquí comparto mis proyectos y mis investigaciones.  
 Actualmente estudio Ingeniería Eléctrica en la Universidad Federal de Paraná, en Curitiba/Brasil.  
