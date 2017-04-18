@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Wendeu Silverio"
   avatar           : "/assets/images/bio-photo.png"
-  bio              :
+  bio              : "Construindo este blog."
   location         : "Curitiba, Brasil"
   email            :
   uri              :
@@ -94,7 +94,7 @@ author:
   keybase          :
   instagram        : "wendeurick"
   lastfm           :
-  linkedin         :
+  linkedin         : "wsilverio"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
